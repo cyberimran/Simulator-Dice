@@ -17,7 +17,7 @@ try:
     if inp==0:
         while True:
             i=input("Press any key to roll dice: ")
-        print(dice.dice())
+            print(dice.dice())
     elif inp==1:
         while True:
             i=input("Press any key to roll dice: ")
