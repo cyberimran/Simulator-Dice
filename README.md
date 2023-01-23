@@ -19,6 +19,26 @@ This is a simulator dice which gives you 1 to 6 random number like you play ludo
 
 **🎲 6.More chances for get six**
 
+## Run Locally
+
+Clone the project
+
+```bash
+git clone https://github.com/imrancoding/Simulator-Dice
+```
+
+Go to the project directory 
+
+```bash
+cd Simulator-Dice
+```
+
+Run the Game
+
+```bash
+python main.py
+```
+
 ## 🚀 About Me
 I'm a full stack web developer and Python developer.
 
