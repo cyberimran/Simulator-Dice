@@ -1,5 +1,5 @@
 #imrancoding
-from Dices import dice,diceone,dicetwo,dicethree,dicefour,dicefive,dicesix
+from Dices import dice, diceone, dicetwo, dicethree, dicefour, dicefive, dicesix 
 print("""
 Created by imrancoding
 
